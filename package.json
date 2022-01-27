@@ -1,20 +1,19 @@
 {
   "name": "react-ip-select-countries",
   "version": "0.1.0",
+  "homepage": "https://hotreload.github.io/react_select_countries",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.16.1",
-    "@testing-library/react": "^12.1.2",
-    "@testing-library/user-event": "^13.5.0",
     "axios": "^0.25.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
     "react-select": "^5.2.2",
-    "react-select-country-list": "^2.2.3",
-    "web-vitals": "^2.1.4"
+    "react-select-country-list": "^2.2.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -37,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
