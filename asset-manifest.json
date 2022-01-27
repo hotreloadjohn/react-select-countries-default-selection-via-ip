@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-select-countries-default-selection-via-ip/static/css/main.8da6c223.css",
-    "main.js": "/react-select-countries-default-selection-via-ip/static/js/main.45c6553b.js",
+    "main.js": "/react-select-countries-default-selection-via-ip/static/js/main.bc80dc11.js",
     "index.html": "/react-select-countries-default-selection-via-ip/index.html",
     "main.8da6c223.css.map": "/react-select-countries-default-selection-via-ip/static/css/main.8da6c223.css.map",
-    "main.45c6553b.js.map": "/react-select-countries-default-selection-via-ip/static/js/main.45c6553b.js.map"
+    "main.bc80dc11.js.map": "/react-select-countries-default-selection-via-ip/static/js/main.bc80dc11.js.map"
   },
   "entrypoints": [
     "static/css/main.8da6c223.css",
-    "static/js/main.45c6553b.js"
+    "static/js/main.bc80dc11.js"
   ]
 }
