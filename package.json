@@ -1,7 +1,7 @@
 {
   "name": "react-ip-select-countries",
   "version": "0.1.0",
-  "homepage": "https://hotreload.github.io/react_select_countries",
+  "homepage": "https://hotreloadjohn.github.io/react-select-countries-default-selection-via-ip",
   "private": true,
   "dependencies": {
     "axios": "^0.25.0",
